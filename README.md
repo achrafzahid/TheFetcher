@@ -1,0 +1,2 @@
+
+The Fetcher a full desicion making from data application with every step till the decision making : in the module of "traitement et visualisation de donnee" aka data visualisation and treatment we asked to make a full application that takes a data from any source (API, Web Scrapping, .csv or .xls, from a embedded system) and clean it analyse it visulalise it and at the end make a desicion out of the analysis of the selected data.
